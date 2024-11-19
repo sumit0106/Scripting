@@ -17,4 +17,4 @@ else
  echo "NONE OF THE CONDITION IS MET"
 fi
 
-echo "I have changed this branch"
+echo "I HAVE CHANGED THIS BRANCH"
