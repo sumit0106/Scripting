@@ -1,5 +1,5 @@
 #!/bin/bash
-i=1
+i=2
 for day in Mon Tue Wed Thu Fri
 do
 echo "Weekday $((i++)) : $day"
